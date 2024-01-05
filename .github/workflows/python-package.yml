@@ -15,5 +15,5 @@ jobs:
       uses: tsickert/discord-webhook@v5.3.0
       with:
         webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
-        content: "잠시 후에 하루코테 모임이 시작됩니다 ☺️"
+        content: "잠시 후, 하루코테 모임이 시작됩니다 ☺️"
 
